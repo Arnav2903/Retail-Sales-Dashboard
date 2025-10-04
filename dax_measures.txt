@@ -1,0 +1,2 @@
+Total Sales = SUM('retail_sales_100 (1)'[SalesAmount])
+Total Profit = SUM('retail_sales_100 (1)'[Profit])
